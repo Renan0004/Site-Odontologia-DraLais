@@ -88,4 +88,11 @@ yarn start
 
 ## Licença
 
-Este projeto está sob a licença MIT. 
+Este projeto está sob a licença MIT.
+
+## Contato
+
+Para mais informações, entre em contato com:
+- Email: contato@draLaisCarolina.com
+- Telefone: (XX) XXXXX-XXXX
+- Instagram: @dralaiscarolina 
